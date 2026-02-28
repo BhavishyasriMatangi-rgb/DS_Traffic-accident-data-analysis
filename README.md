@@ -1,4 +1,4 @@
-# PRODIGY_DS_05-Traffic-accident-data-analysis
+# DS_Traffic-accident-data-analysis
 Analyzing traffic accidents data in india to identify patterns related to road conditions, weather, and time of the day. Visualizing accident hotspots and contributing factors
 Task-05:
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and analyze contributing factors.
